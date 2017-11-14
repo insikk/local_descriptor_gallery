@@ -19,27 +19,27 @@ Preview
 </tr>
 <tr>
 <td>
-<img src = 'screenshots/sift.png' height = '300px'>
+<img src = 'screenshots/sift.png' height = '400px'>
 </td>
 </tr>
 <tr>
 <td>
-<img src = 'screenshots/surf.png' height = '300px'>
+<img src = 'screenshots/surf.png' height = '400px'>
 </td>
 </tr>
 <tr>
 <td>
-<img src = 'screenshots/orb.png' height = '300px'>
+<img src = 'screenshots/orb.png' height = '400px'>
 </td>
 </tr>
 <tr>
 <td>
-<img src = 'screenshots/star.png' height = '300px'>
+<img src = 'screenshots/star.png' height = '400px'>
 </td>
 </tr>
 <tr>
 <td>
-<img src = 'screenshots/fast.png' height = '300px'>
+<img src = 'screenshots/fast.png' height = '400px'>
 </td>
 </tr>
 </table>
